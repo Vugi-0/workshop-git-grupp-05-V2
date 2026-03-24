@@ -7,3 +7,5 @@ choice = input("Select: ")
 choice = input("Choice: ")
 
 >>>>>>> Stashed changes
+
+if choice == "1": print("TODO Add")

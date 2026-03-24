@@ -1,2 +1,4 @@
 def run():
-    print("Calculator v0.1")
+    print("1) subtract\n 0) Exit")
+
+    choice = input('your choice: ')

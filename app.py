@@ -1,3 +1,6 @@
+# Simple console calculator
+
+
 from calculator import add, sub
 
 def run():

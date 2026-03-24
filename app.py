@@ -1,4 +1,4 @@
-from calculator import add, sub, mul, div
+from calculator import add, sub
 
 def run():
     print("1) Add\n Subtract\n0) Exit")
